@@ -3,8 +3,6 @@
 
 This project focuses on developing a machine learning model for detecting damage to coastal infrastructure caused by tropical storms. Built with Python and YOLOv8, the model classifies infrastructure into four damage categories, aiding disaster response teams in improving assessment accuracy and response efficiency.
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-
 ## Features ✨
 
 - **Damage Classification**: Classifies coastal infrastructure into four categories based on severity of damage.
