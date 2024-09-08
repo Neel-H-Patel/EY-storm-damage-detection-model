@@ -1,0 +1,11 @@
+datasets/
+*.jpg
+*.JPG
+*.jpeg
+Post_Event_Grids_In_TIFF/
+Post_Event_Grids_In_JPEG/
+.ipynb_checkpoints/
+Post_Event_San_Juan.tif
+Pre_Event_San_Juan.tif
+runs/
+yolov8m.pt

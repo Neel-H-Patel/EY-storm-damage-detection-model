@@ -1,0 +1,4 @@
+train: ./Annotated_Data/YOLODataset/images/train/
+val: ./Annotated_Data/YOLODataset/images/val/
+nc: 4
+names: ["undamagedresidentialbuilding", "damagedresidentialbuilding", "damagedcommercialbuilding", "undamagedcommercialbuilding"]
