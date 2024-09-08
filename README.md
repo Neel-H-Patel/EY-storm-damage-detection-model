@@ -71,17 +71,7 @@ python detect.py --image <path_to_image>
 ```
 The model will output the detected infrastructure damage category along with visual results.
 
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repo and submit a pull request. Please ensure to include necessary test cases.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Created by the EY Data Science team: 
-- [Your Name](https://www.linkedin.com)
-- [Teammate 1](https://www.linkedin.com)
-- [Teammate 2](https://www.linkedin.com)
+- [Neel Patel](https://www.linkedin.com/in/neel-h-patel1/)
+- [Timothy Chae](https://www.linkedin.com/in/timmy-chae-306b371a9/)
+- [Hemin Lim](https://www.linkedin.com/in/heminlim/)
