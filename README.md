@@ -71,7 +71,7 @@ python detect.py --image <path_to_image>
 ```
 The model will output the detected infrastructure damage category along with visual results.
 
-Created by the EY Data Science team: 
+Created by: 
 - [Neel Patel](https://www.linkedin.com/in/neel-h-patel1/)
 - [Timothy Chae](https://www.linkedin.com/in/timmy-chae-306b371a9/)
 - [Hemin Lim](https://www.linkedin.com/in/heminlim/)
